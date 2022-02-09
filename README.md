@@ -1,4 +1,4 @@
-### Hi there 👋
+### Moin Moin 👋
 
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimGoldmann&show_icons=true&theme=radical)
 
